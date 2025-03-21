@@ -20,3 +20,7 @@ Enter birth month (e.g., June): June
 Enter birth day (1-31): 12
 Your Confidential Fund Name is: Xiaome Alcala
 ```
+
+## Screenshot
+
+![Confidential Funds Meme](meme.jpg)
