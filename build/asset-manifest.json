@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/corroded/confi-funds-gen/static/css/main.f855e6bc.css",
-    "main.js": "/corroded/confi-funds-gen/static/js/main.9e0c9b30.js",
-    "static/js/453.8240ebfd.chunk.js": "/corroded/confi-funds-gen/static/js/453.8240ebfd.chunk.js",
-    "index.html": "/corroded/confi-funds-gen/index.html",
-    "main.f855e6bc.css.map": "/corroded/confi-funds-gen/static/css/main.f855e6bc.css.map",
-    "main.9e0c9b30.js.map": "/corroded/confi-funds-gen/static/js/main.9e0c9b30.js.map",
-    "453.8240ebfd.chunk.js.map": "/corroded/confi-funds-gen/static/js/453.8240ebfd.chunk.js.map"
+    "main.css": "/confi-funds-gen/static/css/main.f855e6bc.css",
+    "main.js": "/confi-funds-gen/static/js/main.f007e9b5.js",
+    "static/js/453.8240ebfd.chunk.js": "/confi-funds-gen/static/js/453.8240ebfd.chunk.js",
+    "index.html": "/confi-funds-gen/index.html",
+    "main.f855e6bc.css.map": "/confi-funds-gen/static/css/main.f855e6bc.css.map",
+    "main.f007e9b5.js.map": "/confi-funds-gen/static/js/main.f007e9b5.js.map",
+    "453.8240ebfd.chunk.js.map": "/confi-funds-gen/static/js/453.8240ebfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9e0c9b30.js"
+    "static/js/main.f007e9b5.js"
   ]
 }
