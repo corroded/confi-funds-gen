@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:corroded/confi-funds-gen.git",
   "author": "Eumir Gaspar <corroded@users.noreply.github.com>",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
