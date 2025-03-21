@@ -23,7 +23,7 @@ Your Confidential Fund Name is: Xiaome Alcala
 
 ## React App
 
-There is also a React app available in the `gh-pages` branch which when deployed, goes [https://meetmeinouter.space/confi-funds-gen/](here).
+There is also a React app available in the `gh-pages` branch which when deployed, goes [here](https://meetmeinouter.space/confi-funds-gen/).
 
 
 ## Screenshot
