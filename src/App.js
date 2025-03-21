@@ -72,12 +72,6 @@ function App() {
   return (
     <div className="App">
       <h1>Confidential Fund Name Generator</h1>
-      <h2>From the meme:</h2>
-      <img
-        src="meme.jpg"
-        alt="Meme"
-        style={{ maxWidth: "100%", height: "auto" }}
-      />
       <form onSubmit={handleSubmit}>
         <div>
           <label htmlFor="month">Select Birth Month: </label>
@@ -108,6 +102,13 @@ function App() {
         <button type="submit">Generate Name</button>
       </form>
       {result && <h2>Your Confidential Fund Name is: {result}</h2>}
+
+      <h2>From the meme:</h2>
+      <img
+        src="meme.jpg"
+        alt="Meme"
+        style={{ maxWidth: "100%", height: "auto" }}
+      />
     </div>
   );
 }
