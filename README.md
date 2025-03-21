@@ -21,6 +21,11 @@ Enter birth day (1-31): 12
 Your Confidential Fund Name is: Xiaome Alcala
 ```
 
+## React App
+
+There is also a React app available in the `gh-pages` branch which when deployed, goes [https://meetmeinouter.space/confi-funds-gen/](here).
+
+
 ## Screenshot
 
 ![Confidential Funds Meme](meme.jpg)
