@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/confi-funds-gen/static/css/main.f855e6bc.css",
+    "main.js": "/confi-funds-gen/static/js/main.cdd268c8.js",
+    "static/js/453.8240ebfd.chunk.js": "/confi-funds-gen/static/js/453.8240ebfd.chunk.js",
+    "index.html": "/confi-funds-gen/index.html",
+    "main.f855e6bc.css.map": "/confi-funds-gen/static/css/main.f855e6bc.css.map",
+    "main.cdd268c8.js.map": "/confi-funds-gen/static/js/main.cdd268c8.js.map",
+    "453.8240ebfd.chunk.js.map": "/confi-funds-gen/static/js/453.8240ebfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cdd268c8.js"
+  ]
+}
