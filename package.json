@@ -1,0 +1,9 @@
+{
+  "name": "confi-funds-gen",
+  "version": "1.0.0",
+  "description": "Confidential funds name generator from a meme",
+  "main": "index.js",
+  "repository": "git@github.com:corroded/confi-funds-gen.git",
+  "author": "Eumir Gaspar <corroded@users.noreply.github.com>",
+  "license": "Unlicense"
+}
